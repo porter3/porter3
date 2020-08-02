@@ -7,6 +7,6 @@
 
 - 💬 Ask me about how I got into this field (I'm a former personal trainer and strength coach)
 
-<a href='mailto:jakeporter310@gmail.com'><img height='30' src='https://github.com/porter3/porter3/blob/main/icons/mail.png'</img></a>&nbsp;&nbsp;
-<a href='https://www.linkedin.com/in/porterjacob'><img height='30' src='https://github.com/porter3/porter3/blob/main/icons/linkedin.png'</img></a>&nbsp;&nbsp;
-<a href='https://www.instagram.com/i_be_jake'><img height='30' src='https://github.com/porter3/porter3/blob/main/icons/instagram.png'</img></a>
+<a href='mailto:jakeporter310@gmail.com'><img height='30' src='https://github.com/porter3/porter3/blob/main/icons/mail.png'></img></a>&nbsp;&nbsp;
+<a href='https://www.linkedin.com/in/porterjacob'><img height='30' src='https://github.com/porter3/porter3/blob/main/icons/linkedin.png'></img></a>&nbsp;&nbsp;
+<a href='https://www.instagram.com/i_be_jake'><img height='30' src='https://github.com/porter3/porter3/blob/main/icons/instagram.png'></img></a>
