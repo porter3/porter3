@@ -5,7 +5,13 @@
 
 -- Developer who spends most of his time these days working on personal projects and learning new tools --
 
-- 🔭 I’m currently working on my Document Summarizer web app
-- 🌱 I’m currently learning a bunch of stuff thanks to this project... more AWS functionality, aspects of Python and Spring I didn't know, some CSS framework stuff (mostly Material-UI)
+- 🔭 I’m currently working on:
+	- Document Summarizer web app
+	- Simple language detector web service - detection function is written in Rust, compiled into JS w/ Web Assembly, and called by a Node/Express app
+- 🌱 I’m learning more about a variety of things at the moment:
+	- More AWS functionality
+	- Aspects of Python, Spring, and Express that are new to me
+	- Rust
+	- Docker
 
 - 💬 Ask me about how I got into this field (I'm a former personal trainer and strength coach)
